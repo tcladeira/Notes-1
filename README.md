@@ -10,13 +10,13 @@
 
 git init
 
-git clone <url>
+git clone \<url>
 
-git add <file-name>
+git add \<file-name>
 
 git add .
 
-git commit -m "<message>"
+git commit -m "\<message>"
 
 git push
 
