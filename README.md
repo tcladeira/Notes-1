@@ -1,5 +1,8 @@
 # Programming Beginning:
 
+- vs code
+- git (windows install chocolatey)
+
 ## front-end
 
 - html
