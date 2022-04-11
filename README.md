@@ -1,13 +1,24 @@
 # Programming Beginning:
 
-- vs code
-- git (windows install chocolatey)
+## Useful programs
 
-## front-end
+### vs code (code editor)
+ 
+Install from https://code.visualstudio.com/
 
-- html
-- css
-- javascript
+### git (version control)
+
+On windows, install git via chocolatey. Follow instructions on how to install at: 
+https://chocolatey.org/install
+then run the following command on PowerShell (open with administrator rights):
+```
+choco install git
+```
+
+## Programming languages
+
+- Frontend: HTML, CSS, Javascript
+- Backend: Node.js, PHP, Python, Java
 
 ## Git commands
 
@@ -38,3 +49,11 @@ ls - list files
 ls -al -  list all files as a list
 
 mkdir \<dir-name> - make directory
+
+## Summary
+
+- VS Code: Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.
+
+- Nodejs: Node.js® is a JavaScript runtime (interpreter) built on Chrome's V8 JavaScript engine.
+
+
